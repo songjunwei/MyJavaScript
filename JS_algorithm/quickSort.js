@@ -1,3 +1,8 @@
+/*
+ * @Author: jw.song 
+ * @Date: 2019-04-02 10:53:03 
+ */
+
 function quickSort( arr ){
   if(arr.length <= 1){
     return arr;
